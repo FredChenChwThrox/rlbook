@@ -81,12 +81,43 @@
 - **出版社**：Springer
 - **GitHub**：[MathFoundationRL/Book-Mathematical-Foundation-of-Reinforcement-Learning](https://github.com/MathFoundationRL/Book-Mathematical-Foundation-of-Reinforcement-Learning)
 
+### 原始英文仓库说明
+
+原始英文书籍仓库：
+
+- GitHub 仓库：[MathFoundationRL/Book-Mathematical-Foundation-of-Reinforcement-Learning](https://github.com/MathFoundationRL/Book-Mathematical-Foundation-of-Reinforcement-Learning)
+- 仓库主页说明：该仓库是作者维护的《Mathematical Foundations of Reinforcement Learning》配套主页与资料集合
+
+从原始仓库可以进一步获取的内容包括：
+
+- 英文版各章节 PDF
+- 全书整合 PDF
+- 勘误文件（errata）
+- 配套 lecture slides
+- 作者提供的课程视频入口与相关阅读资源
+
+如果你希望对照英文原文学习，建议优先以原始英文仓库和 Springer 正式出版版本为准。
+
+### 引用原书
+
+如果你在笔记、博客、课程材料或二次整理中引用本书，建议同时给出原书信息与原始仓库链接。原始仓库 README 中给出的引用格式如下：
+
+```bibtex
+@book{zhao2025RLBook,
+  title={Mathematical Foundations of Reinforcement Learning},
+  author={S. Zhao},
+  year={2025},
+  publisher={Springer Press}
+}
+```
+
 ---
 
 ## ⚠️ 版权与使用说明
 
 - 本仓库内容基于原书进行中文整理、讲解与翻译。
 - 原书版权归原作者与出版社所有。
+- 原始英文资料与官方配套内容请参见 [NOTICE.md](NOTICE.md) 与上游仓库说明。
 - 若要将本仓库公开发布到 GitHub 或用于再分发，请先自行确认你拥有相应授权，避免产生版权风险。
 - 在授权不明确的情况下，更稳妥的做法是仅保留个人学习笔记、摘要或引用说明，而不要公开发布全文译稿。
 
