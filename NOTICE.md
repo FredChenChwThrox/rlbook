@@ -1,11 +1,23 @@
 # Upstream Source Notice
 
-This repository is a Chinese translation, study note, and explanatory adaptation derived from the following upstream work:
+This repository is a Chinese study-notes edition derived from the learning path and subject matter of the following upstream work:
 
 - Book: *Mathematical Foundations of Reinforcement Learning*
 - Author: Shiyu Zhao
 - Publisher: Springer
 - Upstream repository: https://github.com/MathFoundationRL/Book-Mathematical-Foundation-of-Reinforcement-Learning
+
+This repository is intended as:
+
+- a personal study companion
+- a note-style summary of key ideas
+- a Chinese explanation aid for formulas and algorithms
+
+This repository is not intended as:
+
+- an official Chinese edition
+- a replacement for the original English publication
+- evidence that redistribution rights for the original work or a full translated version have been granted
 
 Recommended citation for the original work:
 
@@ -17,7 +29,3 @@ Recommended citation for the original work:
   publisher={Springer Press}
 }
 ```
-
-All rights to the original English book and its official materials belong to the original author and publisher unless stated otherwise by them. This repository should not be treated as a replacement for the official publication or as evidence of redistribution rights.
-
-If you plan to publish, redistribute, or reuse substantial translated content from this repository, confirm the applicable authorization and copyright terms first.
